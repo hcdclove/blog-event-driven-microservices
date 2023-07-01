@@ -1,0 +1,3 @@
+A blog application made with a collection on microservices completely independent. The app illustrate an event driven brocker emitter to allow any of the services to create or consume blog data through a query service. The system also features a event-bus for fast event distribution.
+
+Front-End built with ReactJS Backend build with NodeJS
