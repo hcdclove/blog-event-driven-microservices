@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: client
+spec:
+  containers:
+    - name: client
+      image: hcdcspider/react-client:0.0.1
+      imagePullPolicy: Never
